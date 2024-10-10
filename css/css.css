@@ -1,0 +1,55 @@
+body {
+    background-color: rgb(245, 245, 183);
+    display: flex; /* استخدام Flexbox لجعل الجسم يتوسط المحتوى */
+    justify-content: center; /* محاذاة العناصر في الوسط أفقياً */
+    align-items: center; /* محاذاة العناصر في الوسط عمودياً */
+    height: 100vh; /* جعل ارتفاع الجسم 100% من ارتفاع الشاشة */
+    margin: 0; /* إزالة الهامش الافتراضي */
+}
+img {
+    display: flex; /* استخدام Flexbox داخل الـ div */
+    justify-content: center; /* محاذاة العناصر في الوسط أفقياً */
+    align-items: center; /* محاذاة العناصر في الوسط عمودياً */
+    width: 350px;
+    height: 550px;
+    border-radius: 13px;
+} 
+
+.f {
+    background-color: rgb(252, 251, 250);
+    padding: 20px; /* إضافة بعض الحشو */
+    display: flex; /* استخدام Flexbox داخل الـ div */
+    justify-content: center; /* محاذاة العناصر في الوسط أفقياً */
+    align-items: center; /* محاذاة العناصر في الوسط عمودياً */
+    width: 350px;
+    height:508px;
+    border-radius: 13px;
+}
+
+.gg{
+    width: 50%;
+    height: 550px; ;
+    font-size: larger;
+}
+.q{
+    color: rgb(49, 174, 72);
+    font-size: x-large;
+}
+.ii{
+    color: black;
+    font-size: small;
+}
+.saleh{
+    font-size: small;
+}
+.we{
+    margin-right: 40px;
+}
+.ddd{
+    background-color: rgb(69, 162, 85);
+    color: rgba(240, 248, 241, 0.848);
+    font-size: 10px;
+    width: 190px;
+    height: 40px;
+border-radius: 13px;
+}
